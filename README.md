@@ -1,2 +1,2 @@
 # jdbc-university-source-code
-homework
+homework, only the source code
